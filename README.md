@@ -1,6 +1,11 @@
 # Neural Networks 
 This is a basic tutorial/implementation for a neural network.
-### Breakdown:
+
+Includes:
+1. A Line separation tutorial te explain a Decision Boundary 
+2. Functional Neural Network that using random data and weights
+3. Neural Network that uses a Bias Factor as a parameter 
+### Breakdown: Neurons
     Abstracted: Neural Networks are modelled after Neurons
     defined in neuroscience.
     
