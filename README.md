@@ -1,5 +1,5 @@
 # Neural Networks 
-This is a basic tutorial/implementation for a neural network.
+This is a basic tutorial/implementation for a Neural network.
 
 Includes:
 1. A Line separation tutorial te explain a Decision Boundary 
