@@ -5,7 +5,7 @@ Includes:
 1. A Line separation tutorial te explain a Decision Boundary 
 2. Functional Neural Network that using random data and weights
 3. Neural Network that uses a Bias Factor as a parameter 
-### Breakdown: Neurons
+### Breakdown: Simple Neural Network (Linearly Separable)
     Abstracted: Neural Networks are modelled after Neurons
     defined in neuroscience.
     
@@ -24,4 +24,9 @@ Includes:
     After combining many layers beyond the input function,
     a classification can be made based on the original inputs.
 
+### Breakdown: Neural Network (Not Linearly Separable)
+    
+    Once we start dealing with clusters of data that cannot 
+    be separated linearly, we need to introduce "Hidden Layers".
+    This is adding a level of neurons. 
 Adapted from: https://www.python-course.eu/neural_networks.php
