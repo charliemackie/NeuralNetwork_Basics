@@ -26,8 +26,7 @@ a classification can be made based on the original inputs.
 
 ### Breakdown: Neural Network (Not Linearly Separable)
     
-Once we start dealing with clusters of data that cannot        
-be separated linearly, we need to introduce "Hidden Layers".
+Once we start dealing with clusters of data that cannot be separated linearly, we need to introduce "Hidden Layers".
 This is adding a level of neurons. 
     
 Adapted from: https://www.python-course.eu/neural_networks.php
