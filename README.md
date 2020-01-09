@@ -3,7 +3,7 @@ This is a basic tutorial/implementation for a Neural network.
 
 Includes:
 1. A Line separation tutorial to explain a Decision Boundary 
-2. Functional Neural Network that using random data and weights
+2. Functional Neural Network using random data and weights
 3. Neural Network that uses a Bias Factor as a parameter 
 ### Breakdown: Simple Neural Network (Linearly Separable)
 Abstracted: Neural Networks are modelled after Neurons
